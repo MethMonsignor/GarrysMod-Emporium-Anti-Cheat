@@ -1,4 +1,4 @@
--- EmporiumRP Anti-Cheat: Finalized Detection Suite (Pure Logic)
+-- Anti-Cheat: Finalized Detection Suite (Pure Logic)
 local watchdog = {}
 watchdog.fingerprints = {}
 watchdog.bytecode = {}
@@ -240,5 +240,6 @@ end)
 
 -- Activate watchdog
 initWatchdog()
+
 
 
