@@ -6,7 +6,7 @@ A spawnless, lore-integrated anti-cheat system for EmporiumRP. Designed to detec
 
 ## Installation
 
-Place the script in:
+Place the script in: lua/autorun/server/
 
 This ensures early execution during server startup, initializing diagnostics and fallback logging before any gameplay logic or client interaction.
 
